@@ -1,5 +1,4 @@
 import React, { useRef, useEffect } from "react";
-
 import { mount } from "marketing/App";
 
 export default function MarketingApp() {
